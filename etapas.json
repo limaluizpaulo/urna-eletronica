@@ -3,13 +3,13 @@
         "titulo": "vereador",
         "numeros": 5,
         "candidatos": {
-            "51222": {
-                "nome": "Christianne Varão",
-                "partido": "PEN",
+            "50777": {
+                "nome": "Marielle Franco",
+                "partido": "PSOL",
                 "foto": "cv1.jpg"
             },
             "55555": {
-                "nome": "Homero do Zé Filho",
+                "nome": "Zé Filho",
                 "partido": "PSL",
                 "foto": "cv2.jpg"
             },
@@ -19,7 +19,7 @@
                 "foto": "cv3.jpg"
             },
             "15123": {
-                "nome": "Filho",
+                "nome": "João do Gás",
                 "partido": "MDB",
                 "foto": "cv4.jpg"
             },
